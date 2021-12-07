@@ -31,13 +31,6 @@
 
     <!-- Nav Item -->
     <li class="nav-item">
-        <a class="nav-link" href="index.php?page=cadastrar_veiculo">
-            <span>Cadastrar veículo</span>
-        </a>
-    </li>
-
-    <!-- Nav Item -->
-    <li class="nav-item">
         <a class="nav-link" href="index.php?page=gerenciar_veiculos">
             <span>Gerenciar veículos</span>
         </a>

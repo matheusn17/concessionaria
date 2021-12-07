@@ -10,3 +10,5 @@ Para rodar o projeto:
 4. Habilite o SQLite3 no arquivo php.ini
 5. Caso use Linux, dê as permissões de escrita dos diretorios do projeto
 6. Inicie/reinicie o apache
+
+Feito em dupla entre Matheus Lima Titon e Thaisa Camargo Costa

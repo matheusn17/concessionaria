@@ -1,6 +1,6 @@
 # Concessionaria do lilu
 
-##Isso não é um repositório real. Este é um repositório criado para fins acadêmicos.
+## Isso não é um repositório real. Este é um repositório criado para fins acadêmicos.
 
 Uma loja de carros virtual criada para a prova da disciplina do Lilu.
 

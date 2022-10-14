@@ -1,7 +1,7 @@
 <?php
 
 	//conexao com o banco
-    $conn = new sqlite3($_SERVER['DOCUMENT_ROOT'] . 'assets/loja.sqlite');
+    $conn = new sqlite3($_SERVER['DOCUMENT_ROOT'] . '/assets/loja.sqlite');
 
     //Tabela de logins
     class logins{
